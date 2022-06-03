@@ -22,10 +22,6 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" />
-<img align="left" alt="C" width="26px" src="https://cdn-icons.flaticon.com/png/128/3665/premium/3665923.png?token=exp=1652986136~hmac=0bfa6422ed0de88db81ea499262065b0" />
-<img align="left" alt="C++" width="26px" src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" />
-<img align="left" alt="C#" width="26px" src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" />
-<img align="left" alt="Php" width="26px" src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" />
 <img align="left" alt="VS" width="26px" src="https://cdn-icons-png.flaticon.com/128/5968/5968389.png" />
 
 
