@@ -1,3 +1,3 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Zak618" target="_blank">Rolan</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, Junior Front End Software Engineer</h3>
+<h3 align="center">Junior Front End Software Engineer</h3>
