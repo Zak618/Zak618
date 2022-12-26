@@ -11,4 +11,4 @@
 
 
 
-node updater.js ${{ github.repository_owner }} <themeName>
+node updater.js ${{ github.repository_owner }} <ubuntu>
