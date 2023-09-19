@@ -1,3 +1,2 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="terminal" baseProfile="full" viewBox="0 0 500 430" width="550" version="1.1">
- 
-</svg>
+
+<img src="https://github.com/Zak618/Zak618/assets/89405318/6f9ba49e-853e-4353-9ba9-79db89116fd9">
